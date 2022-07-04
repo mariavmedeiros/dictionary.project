@@ -6,5 +6,12 @@
   margin: 30px 0;
 }
 .App-logo {
-  size: 40;
+  width: 100px;
+  height: 100px;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
 }
