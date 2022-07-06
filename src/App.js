@@ -9,7 +9,7 @@ function App() {
         <header className="App-header"></header>
         <img src={logo} className="App-logo" alt="logo" size={60} />
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="ocean" />
         </main>
         <footer className="App-footer">
           <small> Coded by Maria Medeiros</small>{" "}
