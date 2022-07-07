@@ -12,7 +12,14 @@ function App() {
           <Dictionary defaultKeyword="ocean" />
         </main>
         <footer className="App-footer">
-          <small> Coded by Maria Medeiros</small>{" "}
+          <small>
+            {" "}
+            Coded by
+            <a href="https://github.com/mariavmedeiros/dictionary.project">
+              {" "}
+              Maria Medeiros
+            </a>{" "}
+          </small>{" "}
         </footer>
       </div>
     </div>
